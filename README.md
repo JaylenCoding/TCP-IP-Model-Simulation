@@ -10,7 +10,7 @@ This is a teaching tool for five layer model show that using a connection-orient
 
 ## Showcase
 
-![Showcase GIF](http://p0h33xrro.bkt.clouddn.com/TCP_Showcase.gif)
+![Showcase GIF](http://p0h33xrro.bkt.clouddn.com/TCP_Showcase-compress.gif)
 
 ## How to use
 The source code and project is in "Client Side" & "Service Side", just open it and complie in XCode :)
